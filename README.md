@@ -19,6 +19,7 @@
 ## **Установка и запуск**
 
 pip install -r requirements.txt
+
 py main.py
 
 ## **Telegram: @kotov_invest**
