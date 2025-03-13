@@ -4,7 +4,7 @@
 
 ## **Основной функционал**
 1. **Сбор данных о поинтах:**
-   - Lombard Native Points (прямой занос / LBTC Pende).
+   - Lombard Native Points (прямой занос / LBTC Pendle).
    - Lombard Points через EtherFi.
    - Babylon Points через EtherFi.
 
